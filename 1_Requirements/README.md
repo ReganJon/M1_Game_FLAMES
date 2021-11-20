@@ -8,36 +8,9 @@ This game does not accurately predict whether or not an individual is right for 
 It can be played in many ways.
 
 ## Research
-
- ### 1) Who invented this game ?
-Though it is unknown who invented the game, research I made shows that the game was created around the 90’s, that’s a really really long time ago. And… it was played among kids and teenagers.
-
-### 2) How To Play The Game
-
-The original version of FLAMES is played on a paper. So you will need a pen and paper.
-
--   **Write your name and your partner’s name on a piece of paper**
-    On the piece of paper, you are to write your full name and your partner’s full name. Though this is not necessary, it is the best way to test your FLAMES. Also, don’t use nicknames.
-    For example; we will use the names  _“Tony Stark”_  &  _“Pepper Stark”_
--   **Cancel out the common letters in both names**
-    Now, you are to cancel out the common letters in both of the names irrespective of the case in which the letters are written in. Note that, you are only to cancel out an instance of the letter in both names, not all instances of the letter.    
-    We then get  _“Tony”_ Stark”  &  _“Pepper_ Stark”.    
--   **Count the number of remaining letters**    
-    We then count the number of letters which were not cancelled in both names.    
-    So we combine the un-cancelled letters and get  _“TonyPepper”_. We then count the number and get 10.    
--   **We then compare the number to the acronym FLAMES**
-So we start assigning each number to each letter in the acronym, like 1 -> F, 2->L,3->A,… till we get to 10. If we get to the end of the acronym, we restart the counter till we get to ten. For example, 6 -> S so 7 will then start at F again till we get to the end of the number.
-So the number 10, will end at M. We then compare the answer to this simple table below.
-
-|Letter|Meaning   | 
-|------|----------|
-|F     |Friend    |
-|L     |Love      |
-|A     |Affection|
-|M     |Marriage  |
-|E     |Enemy     |
-|S     |Sister    |
-So, the relationship between  _“Tony Stark”_  and  _“Pepper Stark”_  is Marriage.
+Though it is unknown who invented the game, research I made shows that the game was created around the 90’s, that’s a really really long time ago. And it was played among kids and teenagers. It kills some boredom during our leisure time and makes us enjoy.
+It has some set of rules to play the game by striking out the repeated letters and counting the rest of the letters in the names. Followed by striking out each letter in word FLAMES using the number that had been counted. The final withstanding letter from FLAMES is the actual result. 
+Its not mandatory to use only the above logic instead we can make use of our own way of playing this game which should have a proper outcome.
 
 [Reference-1](https://www.kudadam.com/blog/the-flames-game)
 and
@@ -49,7 +22,58 @@ and
  - Needed pen and paper to play.
  - Its costs only includes the cost of the pen and the paper. 
 ### ii) After digital platform :
- - Multiple pair of inputs are taken at a time.
- - Shows flames result of those multiple pair.
- - Many different logics are designed to obtain many different results.
+ - Any pair of inputs are taken at a time.
+ - Shows flames result of those pairs.
+ - Many different logics are designed in different sites to obtain many different results.
  - Mostly its free on internet and app stores.
+## Defining Our System
+In my system,
+- Many pair of inputs can be taken.
+- Shows flames result of those multiple pairs.
+- User can choose the logic that should be used to get results.
+- Here also its completely cost free to the user.
+## SWOT ANALYSIS
+SWOT Analysis is a simple tool that can help you to analyze what your company does best right now, and to devise a successful strategy for the future. SWOT can also reveal areas of the business that are holding you back, or that your competitors could exploit if you don't protect yourself.
+
+**a) Strengths :**
+
+Strengths are things that my FLAMES game does particularly well, or in a way that distinguishes you from other competitors.
+
+**b) Weaknesses :**
+
+Weaknesses, like strengths, are inherent features of my projects, so focus on our people, resources, systems, and procedures.
+
+**c) Opportunity :**
+
+They usually arise from situations outside your organization, and require an eye to what might happen in the future and how can we improve it to entertain the the users excelling our competitors.
+
+**d) Threats :**
+
+Threats include anything that can negatively affect my game from the outside.
+
+## 4W's and 1'H
+### Who :
+It is unknown who invented the game but it evolved through teen boys and girls. Now we the developers are implementing it through the digital platform.
+
+### What :
+Its just a fun game usually played among teens to find if they are compatible with their friends.
+
+### When :
+The game may be created around the 90’s, that’s a really really long time ago. But now we can able to play it around in digital platform.
+
+### Where :
+It can be played anywhere around the world by using computers, laptops, tablets, smart phones and so on.
+
+### How :
+I am going to implement this game using C programming language.
+
+## Detail Requirements
+
+### High Level Requirements
+
+### Low Level Requirements
+
+
+
+
+

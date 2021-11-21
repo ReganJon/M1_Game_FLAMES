@@ -1,3 +1,4 @@
+
 # Requirements
 ## Introduction
 ### FLAMES GAME
@@ -7,9 +8,11 @@ FLAMES is a fun game named after the acronym:
 This game does not accurately predict whether or not an individual is right for you, but it can be fun to play this with your friends.
 It can be played in many ways.
 
+![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20210119130038/Screenshot264.png)
+
 ## Research
-Though it is unknown who invented the game, research I made shows that the game was created around the 90’s, that’s a really really long time ago. And it was played among kids and teenagers. It kills some boredom during our leisure time and makes us enjoy.
-It has some set of rules to play the game by striking out the repeated letters and counting the rest of the letters in the names. Followed by striking out each letter in word FLAMES using the number that had been counted. The final withstanding letter from FLAMES is the actual result. 
+Though it is unknown who invented the game, we can assume that the game was created around the 90’s, that’s a really really long time ago. And it was played among kids and teenagers. It kills some boredom during our leisure time and makes us enjoy.
+It has some set of rules to play the game by writing the names of two person and striking out the repeated letters and counting the rest of the letters in that names. Followed by striking out each letter in word FLAMES using the number that had been counted. The final withstanding letter from FLAMES depicts the relation between that two person. 
 Its not mandatory to use only the above logic instead we can make use of our own way of playing this game which should have a proper outcome.
 
 [Reference-1](https://www.kudadam.com/blog/the-flames-game)
@@ -17,41 +20,44 @@ and
 [Reference-2](https://www.wikihow.com/Play-%22Flame%22)
 
 ## Cost and Features and Timeline
-### i) Before digital platform :
- - Its a game played manually.
+### i) Without digital platform :
  - Needed pen and paper to play.
  - Its costs only includes the cost of the pen and the paper. 
-### ii) After digital platform :
+ - Only man-power needed.
+ - Can use any procedure to play.
+### ii) With digital platform :
  - Any pair of inputs are taken at a time.
  - Shows flames result of those pairs.
  - Many different logics are designed in different sites to obtain many different results.
  - Mostly its free on internet and app stores.
 ## Defining Our System
 In my system,
-- Many pair of inputs can be taken.
-- Shows flames result of those multiple pairs.
-- User can choose the logic that should be used to get results.
-- Here also its completely cost free to the user.
+ - Many pair of inputs can be taken.
+ - Shows flames result of those multiple pairs.
+ - User can choose the logic that should be used to get results.
+ - Here also its completely cost free to the user.
 ## SWOT ANALYSIS
-SWOT Analysis is a simple tool that can help you to analyze what your company does best right now, and to devise a successful strategy for the future. SWOT can also reveal areas of the business that are holding you back, or that your competitors could exploit if you don't protect yourself.
-
+![enter image description here](https://www.rhythmsystems.com/hs-fs/hubfs/iStock-1134293632.jpg?width=325&name=iStock-1134293632.jpg)
 **a) Strengths :**
-
-Strengths are things that my FLAMES game does particularly well, or in a way that distinguishes you from other competitors.
-
+ - Getting the output in a minimal time.
+ - Time saver.
+ - Quality of work.
+ 
 **b) Weaknesses :**
-
-Weaknesses, like strengths, are inherent features of my projects, so focus on our people, resources, systems, and procedures.
+ - Addictive
+ - Results are not accurate.
+ - Only children and youngsters will show interest.
 
 **c) Opportunity :**
-
-They usually arise from situations outside your organization, and require an eye to what might happen in the future and how can we improve it to entertain the the users excelling our competitors.
+ - Many game developers will show interest.
+ - Has wide market among school and college students.
 
 **d) Threats :**
-
-Threats include anything that can negatively affect my game from the outside.
+ - Expansion to new larger location.
+ - Sometimes the results of this game might mislead to problems, so don't take them seriously.
 
 ## 4W's and 1'H
+![enter image description here](https://www.webomates.com/wp-content/uploads/2018/10/software-testing.jpg)
 ### Who :
 It is unknown who invented the game but it evolved through teen boys and girls. Now we the developers are implementing it through the digital platform.
 
@@ -59,10 +65,10 @@ It is unknown who invented the game but it evolved through teen boys and girls. 
 Its just a fun game usually played among teens to find if they are compatible with their friends.
 
 ### When :
-The game may be created around the 90’s, that’s a really really long time ago. But now we can able to play it around in digital platform.
+Can be used at any time ,whenever an urge develops to find out the future about their relationships.
 
 ### Where :
-It can be played anywhere around the world by using computers, laptops, tablets, smart phones and so on.
+It can be played digitally anywhere around the world by using computers, laptops, tablets, smart phones and so on.
 
 ### How :
 I am going to implement this game using C programming language.
@@ -71,8 +77,21 @@ I am going to implement this game using C programming language.
 
 ### High Level Requirements
 
+| ID   	| Description                                                                      	|
+|------	|----------------------------------------------------------------------------------	|
+| HLR1 	| User should be able to choose the number of pair inputs                          	|
+| HLR2 	| User should be able to choose which algorithm to be implemented for the result   	|
+| HLR3 	| User should be able to enter their names                                         	|
+| HLR4 	| User should be able to get their result after submission                         	|
 ### Low Level Requirements
-
+| ID    	| Description                                                                                                 	|
+|-------	|-------------------------------------------------------------------------------------------------------------	|
+| LLR1  	| Input should only be a numerical value in the total number of pair inputs                                   	|
+| LLR2  	| User should be able to select only one option for the algorithm that is going to be implemented             	|
+| LLR3  	| Input should only be alphabets in the place of pair names                                                   	|
+| LLR4  	| No special characters are allowed to enter at any inputs                                                    	|
+| LLR5  	| The matching letters in the name will be deleted and the remaining length of the names should be calculated 	|
+| LLR6  	| In the result, the relation should be displayed along with the names of the pairs which is given as input   	|
 
 
 

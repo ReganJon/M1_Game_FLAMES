@@ -76,21 +76,19 @@ I am going to implement this game using C programming language.
 
 ### High Level Requirements
 
-| ID   	| Description                                                                      	|
-|------	|----------------------------------------------------------------------------------	|
-| HLR1 	| User should be able to choose the number of pair inputs                          	|
-| HLR2 	| User should be able to choose which algorithm to be implemented for the result   	|
-| HLR3 	| User should be able to enter their names                                         	|
-| HLR4 	| User should be able to get their result after submission                         	|
+| ID   	| Description                                                                      	|Status|
+|------	|----------------------------------------------------------------------------------	|------|
+| HLR1 	| User should be able to choose the number of pair inputs                          	|      |
+| HLR2 	| User should be able to enter the pair names                                       |      |
+| HLR3 	| User should be able to get their result after submission                         	|      |
 ### Low Level Requirements
-| ID    	| Description                                                                                                 	|
-|-------	|-------------------------------------------------------------------------------------------------------------	|
-| LLR1  	| Input should only be a numerical value in the total number of pair inputs                                   	|
-| LLR2  	| User should be able to select only one option for the algorithm that is going to be implemented             	|
-| LLR3  	| Input should only be alphabets in the place of pair names                                                   	|
-| LLR4  	| No special characters are allowed to enter at any inputs                                                    	|
-| LLR5  	| The matching letters in the name will be deleted and the remaining length of the names should be calculated 	|
-| LLR6  	| In the result, the relation should be displayed along with the names of the pairs which is given as input   	|
+| ID    	| Description                                                                                                 	|Status|
+|-------	|-------------------------------------------------------------------------------------------------------------	|------|
+| LLR1  	| Input should only be a numerical value in the total number of pair inputs                                   	|      |
+| LLR2  	| User should be able to select only one option for the algorithm that is going to be implemented             	|      |
+| LLR3  	| Input should only be alphabets in the place of pair names                                                   	|      |
+| LLR4  	| No special characters are allowed to enter at any inputs                                                    	|      |
+
 
 
 

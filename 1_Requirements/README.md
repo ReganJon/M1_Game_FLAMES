@@ -12,8 +12,8 @@ It can be played in many ways.
 
 ## Research
 Though it is unknown who invented the game, we can assume that the game was created around the 90’s, that’s a really really long time ago. And it was played among kids and teenagers. It kills some boredom during our leisure time and makes us enjoy.
-It has some set of rules to play the game by writing the names of two person and striking out the repeated letters and counting the rest of the letters in that names. Followed by striking out each letter in word FLAMES using the number that had been counted. The final withstanding letter from FLAMES depicts the relation between that two person. 
-Its not mandatory to use only the above logic instead we can make use of our own way of playing this game which should have a proper outcome.
+The main aim of the flames calculator is to make easy to play the game. If any one wants to play the flames game manually first they need to identify and cancel the same letters in both the names and then need to count the left over letters and need to cancel the word FLAMES untill one letter remains this is how manually peoples play the flames game but with the help of this code the whole process made easy by just enetering two names it gives the realtion between those two people in fraction of seconds
+there are many systems existing in online those will work through internet but this system will work in even offline
 
 [Reference-1](https://www.kudadam.com/blog/the-flames-game)
 and
@@ -31,13 +31,12 @@ and
  - Many different logics are designed in different sites to obtain many different results.
  - Mostly its free on internet and app stores.
 ## Defining Our System
-In my system,
- - Many pair of inputs can be taken.
- - Shows flames result of those multiple pairs.
- - User can choose the logic that should be used to get results.
- - Here also its completely cost free to the user.
+It has some set of rules to play the game by writing the names of two person and striking out the repeated letters and counting the rest of the letters in that names. Followed by striking out each letter in word FLAMES using the number that had been counted. The final withstanding letter from FLAMES depicts the relation between that two person. 
+Its not mandatory to use only the above logic instead we can make use of our own way of playing this game which should have a proper outcome.
+
 ## SWOT ANALYSIS
 ![enter image description here](https://www.rhythmsystems.com/hs-fs/hubfs/iStock-1134293632.jpg?width=325&name=iStock-1134293632.jpg)
+
 **a) Strengths :**
  - Getting the output in a minimal time.
  - Time saver.

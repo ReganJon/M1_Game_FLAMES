@@ -78,18 +78,18 @@ I am going to implement this game using C programming language.
 
 ### High Level Requirements
 
-| ID   	| Description                                                                      	|Status|
-|------	|----------------------------------------------------------------------------------	|------|
-| HLR1 	| User should be able to choose the number of pair inputs                          	|      |
-| HLR2 	| User should be able to enter the pair names                                       |      |
-| HLR3 	| User should be able to get their result after submission                         	|      |
+| ID   	| Description                                                                      	| Status      |
+|------	|----------------------------------------------------------------------------------	|-------------|
+| HLR1 	| User should be able to choose the number of pair inputs                          	| Implemented |
+| HLR2 	| User should be able to enter the pair names                                       | Implemented |
+| HLR3 	| User should be able to get their result after submission                         	| Implemented |
 ### Low Level Requirements
-| ID    	| Description                                                                                                 	|Status|
-|-------	|-------------------------------------------------------------------------------------------------------------	|------|
-| LLR1  	| Input should only be a numerical value in the total number of pair inputs                                   	|      |
-| LLR2  	| User should be able to select only one option for the algorithm that is going to be implemented             	|      |
-| LLR3  	| Input should only be alphabets in the place of pair names                                                   	|      |
-| LLR4  	| No special characters are allowed to enter at any inputs                                                    	|      |
+| ID    	| Description                                                                                                 	| Status      |
+|-------	|-------------------------------------------------------------------------------------------------------------	|-------------|
+| LLR1  	| Input should only be a numerical value in the total number of pair inputs                                   	| Implemented |
+| LLR2  	| User should be able to select only one option for the algorithm that is going to be implemented             	| Implemented |
+| LLR3  	| Input should only be alphabets in the place of pair names                                                   	| Implemented |
+| LLR4  	| No special characters are allowed to enter at any inputs                                                    	| Implemented |
 
 
 

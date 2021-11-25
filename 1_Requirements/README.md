@@ -15,7 +15,8 @@ Though it is unknown who invented the game, we can assume that the game was crea
 The main aim of the flames calculator is to make easy to play the game. If any one wants to play the flames game manually first they need to identify and cancel the same letters in both the names and then need to count the left over letters and need to cancel the word FLAMES untill one letter remains this is how manually peoples play the flames game but with the help of this code the whole process made easy by just enetering two names it gives the realtion between those two people in fraction of seconds
 there are many systems existing in online those will work through internet but this system will work in even offline
 
-**Reference Links : **
+**Reference Links :**
+
 [Reference-1](https://www.kudadam.com/blog/the-flames-game)
 and
 [Reference-2](https://www.wikihow.com/Play-%22Flame%22)
